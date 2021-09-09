@@ -1,3 +1,6 @@
 # test
-testing
-this is my site welcome
+testing...
+starting...
+hello,
+this is my site welcome.
+(^^)
