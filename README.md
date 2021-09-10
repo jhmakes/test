@@ -4,4 +4,5 @@ starting...
 hello,  
 this is my site welcome.  
 (^^)  
-* [markdown.exe](Markdown – Wikipédia, a enciclopédia livre)
+terminal:
+* [markdown.exe](https://en.wikipedia.org/wiki/Markdown)
